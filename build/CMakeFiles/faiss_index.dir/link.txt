@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/faiss_index.dir/faiss_index.cpp.o -o faiss_index   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lfaiss /usr/local/lib/libopenblas.so /usr/local/lib/libopenblas.so -lpthread -lm -ldl /usr/lib/gcc/x86_64-linux-gnu/9/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.so

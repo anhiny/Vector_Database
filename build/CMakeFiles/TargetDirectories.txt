@@ -1,0 +1,9 @@
+/home/u/vector_DB/build/CMakeFiles/package.dir
+/home/u/vector_DB/build/CMakeFiles/package_source.dir
+/home/u/vector_DB/build/CMakeFiles/edit_cache.dir
+/home/u/vector_DB/build/CMakeFiles/rebuild_cache.dir
+/home/u/vector_DB/build/src/CMakeFiles/vdb.dir
+/home/u/vector_DB/build/src/CMakeFiles/package.dir
+/home/u/vector_DB/build/src/CMakeFiles/package_source.dir
+/home/u/vector_DB/build/src/CMakeFiles/edit_cache.dir
+/home/u/vector_DB/build/src/CMakeFiles/rebuild_cache.dir

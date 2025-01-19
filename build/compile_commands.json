@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/faiss_index.cpp.o -c /home/u/vector_DB/src/faiss_index.cpp",
+  "file": "/home/u/vector_DB/src/faiss_index.cpp",
+  "output": "src/CMakeFiles/vdb.dir/faiss_index.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/hnswlib_index.cpp.o -c /home/u/vector_DB/src/hnswlib_index.cpp",
+  "file": "/home/u/vector_DB/src/hnswlib_index.cpp",
+  "output": "src/CMakeFiles/vdb.dir/hnswlib_index.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/http_server.cpp.o -c /home/u/vector_DB/src/http_server.cpp",
+  "file": "/home/u/vector_DB/src/http_server.cpp",
+  "output": "src/CMakeFiles/vdb.dir/http_server.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/index_factory.cpp.o -c /home/u/vector_DB/src/index_factory.cpp",
+  "file": "/home/u/vector_DB/src/index_factory.cpp",
+  "output": "src/CMakeFiles/vdb.dir/index_factory.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/logger.cpp.o -c /home/u/vector_DB/src/logger.cpp",
+  "file": "/home/u/vector_DB/src/logger.cpp",
+  "output": "src/CMakeFiles/vdb.dir/logger.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/scalar_storage.cpp.o -c /home/u/vector_DB/src/scalar_storage.cpp",
+  "file": "/home/u/vector_DB/src/scalar_storage.cpp",
+  "output": "src/CMakeFiles/vdb.dir/scalar_storage.cpp.o"
+},
+{
+  "directory": "/home/u/vector_DB/build/src",
+  "command": "/usr/bin/g++  -I/home/u/vector_DB/vdb -I/home/u/faiss/faiss -I/home/u/faiss/c_api -I/home/u/vector_DB/include -I/home/u/vector_DB/thirdparty/cpp-httplib -I/home/u/vector_DB/thirdparty/rapidjson/include -I/home/u/vector_DB/thirdparty/spdlog/include -I/home/u/vector_DB/thirdparty/hnswlib -I/home/u/vector_DB/thirdparty/rocksdb/include -g -g -fopenmp -o CMakeFiles/vdb.dir/vdb_server.cpp.o -c /home/u/vector_DB/src/vdb_server.cpp",
+  "file": "/home/u/vector_DB/src/vdb_server.cpp",
+  "output": "src/CMakeFiles/vdb.dir/vdb_server.cpp.o"
+}
+]

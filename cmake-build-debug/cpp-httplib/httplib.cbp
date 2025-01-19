@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="httplib"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\rapidjson\;CMake Files\rapidjson\doc\;CMake Files\rapidjson\example\;CMake Files\rapidjson\test\;CMake Files\rapidjson\CMakeModules\;CMake Files\cpp-httplib\;CMake Files\cpp-httplib\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/u/vector_DB/cmake-build-debug/cpp-httplib"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j20 -f &quot;/home/u/vector_DB/cmake-build-debug/cpp-httplib/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j20 -f &quot;/home/u/vector_DB/cmake-build-debug/cpp-httplib/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j20 -f &quot;/home/u/vector_DB/cmake-build-debug/cpp-httplib/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j20 -f &quot;/home/u/vector_DB/cmake-build-debug/cpp-httplib/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/u/vector_DB/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\rapidjson\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/RapidJSON.pc.in">
+			<Option virtualFolder="CMake Files\rapidjson\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/RapidJSONConfig.cmake.in">
+			<Option virtualFolder="CMake Files\rapidjson\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/RapidJSONConfigVersion.cmake.in">
+			<Option virtualFolder="CMake Files\rapidjson\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/doc/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\rapidjson\doc\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/example/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\rapidjson\example\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/test/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\rapidjson\test\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/rapidjson/CMakeModules/FindGTestSrc.cmake">
+			<Option virtualFolder="CMake Files\rapidjson\CMakeModules\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/cpp-httplib/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\cpp-httplib\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/cpp-httplib/cmake/FindBrotli.cmake">
+			<Option virtualFolder="CMake Files\cpp-httplib\cmake\"/>
+		</Unit>
+		<Unit filename="/home/u/vector_DB/cpp-httplib/cmake/httplibConfig.cmake.in">
+			<Option virtualFolder="CMake Files\cpp-httplib\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
